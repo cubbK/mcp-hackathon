@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "github-org-explorer": {
+      "command": "/Users/dan.popa/work/mcp-hackathon/.venv/bin/python",
+      "args": ["/Users/dan.popa/work/mcp-hackathon/main.py"],
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
