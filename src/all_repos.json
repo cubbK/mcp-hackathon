@@ -126,18 +126,6 @@
     "description": "GCP Organization Repository"
   },
   {
-    "name": "cas-integration-project",
-    "url": "https://github.com/hm-group/cas-integration-project",
-    "private": true,
-    "description": "this project will connect Github to the MCAS"
-  },
-  {
-    "name": "favorites",
-    "url": "https://github.com/hm-group/favorites",
-    "private": true,
-    "description": "favorites api"
-  },
-  {
     "name": "gcp-network",
     "url": "https://github.com/hm-group/gcp-network",
     "private": true,
