@@ -1,5 +1,11 @@
 [
   {
+    "name": "cruisecontrol-application-frontend",
+    "url": "https://github.com/hm-group/cruisecontrol-application-frontend",
+    "private": true,
+    "description": null
+  },
+  {
     "name": "commercetools-servicebus",
     "url": "https://github.com/hm-group/commercetools-servicebus",
     "private": true,
